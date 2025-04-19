@@ -1,4 +1,6 @@
-Código-fonte de um editor de planilhas baseado na web, desenvolvido em Lua utilizando o ambiente Luvit.
+## Sobre
+
+Código-fonte de um editor de planilhas baseado na web, desenvolvido em Lua utilizando o ambiente Luvit. Nele, é possível inserir dados para serem exibidos dentro de uma planilha online.
 
 ## Como Utilizar
 
